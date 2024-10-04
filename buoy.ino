@@ -16,7 +16,7 @@ const int echoPin = 22; // Echo Pin of Ultrasonic Sensor
 
 
 // Initialize Telegram BOT
-#define BOTtoken "5995645595:AAHXaEMAk6k1IrjFCev7qEcmKX03rFQ80Lw"  // your Bot Token (Get from Botfather)
+#define BOTtoken "***********************************"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
